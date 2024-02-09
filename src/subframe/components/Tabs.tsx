@@ -4,7 +4,6 @@
  * Tabs — https://app.subframe.com/library?component=Tabs_e1ad5091-8ad8-4319-b1f7-3e47f0256c20
  */
 
-import classNames from "classnames";
 import * as SubframeCore from "@subframe/core";
 import React from "react";
 

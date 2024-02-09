@@ -7,7 +7,6 @@
  * Eleven Sidebar — https://app.subframe.com/library?component=Eleven+Sidebar_221cad9e-3511-4462-a0b2-140efad3b9fe
  */
 
-import classNames from "classnames";
 import * as SubframeCore from "@subframe/core";
 import React from "react";
 import { DropdownMenu } from "../components/DropdownMenu";

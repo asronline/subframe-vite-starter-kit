@@ -4,7 +4,6 @@
  * Loader — https://app.subframe.com/library?component=Loader_f2e570c8-e463-45c2-aae9-a960146bc5d5
  */
 
-import classNames from "classnames";
 import * as SubframeCore from "@subframe/core";
 import React from "react";
 

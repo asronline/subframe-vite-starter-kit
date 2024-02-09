@@ -4,7 +4,6 @@
  * Link Button — https://app.subframe.com/library?component=Link+Button_a4ee726a-774c-4091-8c49-55b659356024
  */
 
-import classNames from "classnames";
 import * as SubframeCore from "@subframe/core";
 import React from "react";
 

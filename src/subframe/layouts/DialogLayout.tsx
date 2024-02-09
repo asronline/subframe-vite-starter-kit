@@ -5,7 +5,6 @@
  * Dialog — https://app.subframe.com/library?component=Dialog_ca59db17-43fb-4247-8094-3c55162e902d
  */
 
-import classNames from "classnames";
 import * as SubframeCore from "@subframe/core";
 import React from "react";
 import { Dialog } from "../components/Dialog";

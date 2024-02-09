@@ -4,7 +4,6 @@
  * Toast — https://app.subframe.com/library?component=Toast_2c7966c2-a95d-468a-83fe-bf196b95be7a
  */
 
-import classNames from "classnames";
 import * as SubframeCore from "@subframe/core";
 import React from "react";
 

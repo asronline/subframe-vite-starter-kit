@@ -6,7 +6,6 @@
  * Button — https://app.subframe.com/library?component=Button_3b777358-b86b-40af-9327-891efc6826fe
  */
 
-import classNames from "classnames";
 import * as SubframeCore from "@subframe/core";
 import React from "react";
 import { TextInput } from "./TextInput";

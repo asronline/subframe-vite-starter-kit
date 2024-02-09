@@ -4,7 +4,6 @@
  * Breadcrumb — https://app.subframe.com/library?component=Breadcrumb_fd1b7b4a-ddc4-402a-ab31-dbe6a075e17c
  */
 
-import classNames from "classnames";
 import * as SubframeCore from "@subframe/core";
 import React from "react";
 

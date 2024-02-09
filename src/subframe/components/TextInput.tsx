@@ -4,7 +4,6 @@
  * Text Input — https://app.subframe.com/library?component=Text+Input_be48ca43-f8e7-4c0e-8870-d219ea11abfe
  */
 
-import classNames from "classnames";
 import * as SubframeCore from "@subframe/core";
 import React from "react";
 

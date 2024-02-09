@@ -4,7 +4,6 @@
  * Select — https://app.subframe.com/library?component=Select_bb88f90b-8c43-4b73-9c2f-3558ce7838f3
  */
 
-import classNames from "classnames";
 import * as SubframeCore from "@subframe/core";
 import React from "react";
 

@@ -1,8 +1,5 @@
 "use client";
 
-import classNames from "classnames";
-import * as SubframeCore from "@subframe/core";
-import React from "react";
 import { ElevenPage } from "@/subframe/layouts/ElevenPage";
 import { Button } from "@/subframe/components/Button";
 import { Tabs } from "@/subframe/components/Tabs";

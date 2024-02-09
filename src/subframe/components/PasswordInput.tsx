@@ -4,8 +4,7 @@
  * Password Input — https://app.subframe.com/library?component=Password+Input_b3bf0b96-5d85-4550-8f7c-17370f1cd3c4
  */
 
-import classNames from "classnames";
-import * as SubframeCore from "@subframe/core";
+ rame/core";
 import React from "react";
 
 interface InputProps extends React.InputHTMLAttributes<HTMLInputElement> {

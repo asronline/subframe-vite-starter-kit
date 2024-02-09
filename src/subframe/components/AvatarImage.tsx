@@ -4,7 +4,6 @@
  * Avatar Image — https://app.subframe.com/library?component=Avatar+Image_ce9959fe-701f-440f-913c-132cdebc1dd5
  */
 
-import classNames from "classnames";
 import * as SubframeCore from "@subframe/core";
 import React from "react";
 

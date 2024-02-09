@@ -4,7 +4,6 @@
  * Multiline Input — https://app.subframe.com/library?component=Multiline+Input_4ec05ee8-8f1c-46b2-b863-5419aa7f5cce
  */
 
-import classNames from "classnames";
 import * as SubframeCore from "@subframe/core";
 import React from "react";
 
