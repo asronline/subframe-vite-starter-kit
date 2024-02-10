@@ -5,7 +5,7 @@
  * Icon with background — https://app.subframe.com/library?component=Icon+with+background_c5d68c0e-4c0c-4cff-8d8c-6ff334859b3a
  */
 
- rame/core";
+import * as SubframeCore from "@subframe/core";
 import React from "react";
 import { IconWithBackground } from "./IconWithBackground";
 

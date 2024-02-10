@@ -4,7 +4,7 @@
  * Navbar — https://app.subframe.com/library?component=Navbar_6ca1b963-718d-4d67-aada-b3a747fd3661
  */
 
- rame/core";
+import * as SubframeCore from "@subframe/core";
 import React from "react";
 
 interface ItemProps extends React.HTMLAttributes<HTMLDivElement> {
