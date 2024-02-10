@@ -12,7 +12,7 @@ function VoicesPage() {
         <div className="flex w-full flex-col items-start border-b border-solid border-neutral-border bg-default-background">
           <div className="flex w-full items-center gap-2 pt-6 pr-6 pb-6 pl-6">
             <div className="flex w-full grow shrink-0 basis-0 flex-col items-start gap-1">
-              <span className="w-full text-heading-2 font-heading-2 text-default-font">
+              <span className="w-full text-heading-2 font-heading-2 text-default-font bg-white">
                 Voices
               </span>
               <span className="text-body font-body text-subtext-color">

@@ -143,7 +143,7 @@ const ElevenPageRoot = React.forwardRef<HTMLElement, ElevenPageRootProps>(
           </SubframeCore.DropdownMenu.Root>
         </ElevenSidebar>
         {children !== undefined ? (
-          <div className="flex h-full w-full grow shrink-0 basis-0 flex-col items-start gap-4 overflow-y-auto">
+          <div className="flex h-full w-full grow shrink-0 basis-0 flex-col items-start gap-4 overflow-y-auto bg-neutral-50">
             {children}
           </div>
         ) : null}
